@@ -1,0 +1,11 @@
+{
+	"luci-app-AdGuardHome": {
+	"description": "Grant UCI access for luci-app-AdGuardHome",
+	"read": {
+		"uci": [ "AdGuardHome" ]
+		},
+	"write": {
+		"uci": [ "AdGuardHome" ]
+		}
+	}
+}
